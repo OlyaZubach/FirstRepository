@@ -3,4 +3,4 @@ hello
 Орп
 Line from user2
 Ggg
-Critical Bug fixed
+line from user2-lesson about rebase
